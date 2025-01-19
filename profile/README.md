@@ -1,3 +1,3 @@
-## Hi there 👋
+## What do we do
 
-Nothing here yet... (I want to put a website, but i dont have enough Gold Coins)
+We are making Minecraft Mods
